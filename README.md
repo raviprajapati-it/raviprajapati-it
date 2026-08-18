@@ -57,12 +57,15 @@ Investigated a 600+ MB malware-traffic PCAP using **Wireshark, NetworkMiner, and
 
 [View Investigation →](https://github.com/raviprajapati-it/network-forensics-malware-traffic-analysis)
 
-### 🦠 Ransomware Analysis — LockBit & BlackCat
-Static and dynamic analysis of ransomware behaviour, indicators of compromise, attack characteristics, and defensive considerations.
+### 🦠 [Ransomware Analysis — LockBit & BlackCat](https://github.com/raviprajapati-it/ransomware-analysis-lockbit-blackcat)
 
-`Malware Analysis` `Ransomware` `Static Analysis` `Dynamic Analysis` `IOCs`
+Comparative static and dynamic malware analysis of LockBit and BlackCat (ALPHV) ransomware samples inside an isolated Windows lab using PEStudio, Process Monitor, Process Explorer, and Autoruns.
 
-**Repository coming soon**
+**Key evidence:** Test-file encryption, ransom-note behaviour, LockBit wallpaper modification, process and file-system activity, BlackCat reconnaissance, verified sample hashes, and original investigation evidence.
+
+`Malware Analysis` `Ransomware` `LockBit` `BlackCat` `Static Analysis` `Dynamic Analysis` `PEStudio` `Sysinternals`
+
+[View Investigation →](https://github.com/raviprajapati-it/ransomware-analysis-lockbit-blackcat)
 
 ### 🧠 Cybersecurity Incident Classification
 BSc dissertation project exploring the classification of cybersecurity incidents using Natural Language Processing, Machine Learning, and MITRE ATT&CK.
