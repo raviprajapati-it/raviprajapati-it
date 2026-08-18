@@ -47,12 +47,15 @@ My professional background covers enterprise endpoint support, Microsoft 365, Ac
 
 ## 🚀 Featured Projects
 
-### 🔍 Network Forensics & Malware Traffic Analysis
-Investigation of malicious network traffic using PCAP analysis to identify anomalous endpoints, command-and-control activity, indicators of compromise, and attack behaviour.
+### 🔍 [Network Forensics & Malware Traffic Analysis](https://github.com/raviprajapati-it/network-forensics-malware-traffic-analysis)
 
-`Wireshark` `PCAP` `Network Forensics` `C2` `IOC Analysis`
+Investigated a 600+ MB malware-traffic PCAP using **Wireshark, NetworkMiner, and Python** to identify anomalous host behaviour, reconstruct multi-stage command-and-control activity, analyse backconnect and TLS communication, extract IOCs, and assess suspicious outbound transfers.
 
-**Repository coming soon**
+**Key evidence:** 2.47M+ packets associated with the primary suspicious host, HTTP C2 behaviour, backconnect infrastructure, TLS migration, and potential data exfiltration.
+
+`Wireshark` `NetworkMiner` `Python` `PCAP Analysis` `Network Forensics` `C2 Detection` `Incident Response`
+
+[View Investigation →](https://github.com/raviprajapati-it/network-forensics-malware-traffic-analysis)
 
 ### 🦠 Ransomware Analysis — LockBit & BlackCat
 Static and dynamic analysis of ransomware behaviour, indicators of compromise, attack characteristics, and defensive considerations.
