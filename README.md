@@ -89,12 +89,15 @@ Designed and documented three related Cisco enterprise-network case studies cove
 
 [View Project →](https://github.com/raviprajapati-it/secure-enterprise-network-design)
 
-### 🔐 Active Directory Penetration Testing
-Hands-on exploration of penetration-testing techniques targeting Active Directory environments.
+### 🔐 [Internal Penetration Testing — SMB Enumeration, SQL Injection & Webmin RCE](https://github.com/raviprajapati-it/active-directory-penetration-testing)
 
-`Active Directory` `Penetration Testing` `Privilege Escalation` `Nmap`
+Conducted an authorized penetration-testing assessment against an intentionally vulnerable lab environment, progressing from network reconnaissance and SMB enumeration through web-application exploitation, remote code execution, root compromise, and post-exploitation analysis.
 
-**Repository coming soon**
+**Key findings:** SQL injection in the Kings Module Directory, weak password-policy controls, SMB account enumeration, vulnerable Webmin 1.984 / CVE-2022-0824, successful reverse-shell execution, root-level access, and persistence-risk demonstration.
+
+`Penetration Testing` `Nmap` `SMB` `enum4linux` `Burp Suite` `SQL Injection` `sqlmap` `Webmin` `CVE Analysis` `Privilege Escalation`
+
+[View Project →](https://github.com/raviprajapati-it/active-directory-penetration-testing)
 
 ### 🌍 Secure Coding & Application Security
 Assessment and remediation of common web application vulnerabilities using secure-coding principles and OWASP guidance.
