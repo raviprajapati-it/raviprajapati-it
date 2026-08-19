@@ -67,12 +67,15 @@ Comparative static and dynamic malware analysis of LockBit and BlackCat (ALPHV) 
 
 [View Investigation →](https://github.com/raviprajapati-it/ransomware-analysis-lockbit-blackcat)
 
-### 🧠 Cybersecurity Incident Classification
-BSc dissertation project exploring the classification of cybersecurity incidents using Natural Language Processing, Machine Learning, and MITRE ATT&CK.
+### 🧠 [Cybersecurity Incident Classification — NLP, ML & MITRE ATT&CK](https://github.com/raviprajapati-it/cybersecurity-incident-classification)
 
-`Python` `NLP` `Machine Learning` `MITRE ATT&CK` `Threat Detection`
+Built and evaluated a hybrid cybersecurity incident-classification pipeline using the Microsoft GUIDE dataset, TF-IDF, Sentence Transformer embeddings, structured security metadata, SMOTE, and ensemble machine-learning models.
 
-**Repository coming soon**
+**Key results:** Random Forest achieved the strongest reported performance with **69.28% accuracy**, **0.6963 weighted F1-score**, and **75.96% cross-validation accuracy**, with confusion-matrix, ROC, precision-recall, and feature-importance analysis used to examine model behaviour and class imbalance.
+
+`Python` `Machine Learning` `NLP` `MITRE ATT&CK` `TF-IDF` `Sentence Transformers` `Random Forest` `XGBoost`
+
+[View Project →](https://github.com/raviprajapati-it/cybersecurity-incident-classification)
 
 ### 🌐 Secure Enterprise Network Design
 Security-focused enterprise network architecture covering segmentation, VLANs, routing, ACLs, firewalls, and site-to-site VPN connectivity.
