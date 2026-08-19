@@ -77,12 +77,17 @@ Built and evaluated a hybrid cybersecurity incident-classification pipeline usin
 
 [View Project →](https://github.com/raviprajapati-it/cybersecurity-incident-classification)
 
-### 🌐 Secure Enterprise Network Design
-Security-focused enterprise network architecture covering segmentation, VLANs, routing, ACLs, firewalls, and site-to-site VPN connectivity.
+### 🌐 [Secure Enterprise Network Design — Multi-Site, Data Center & VPN Architecture](https://github.com/raviprajapati-it/secure-enterprise-network-design)
 
-`Cisco` `VLAN` `ACL` `Firewall` `IPSec` `Network Security`
+Designed and documented three related Cisco enterprise-network case studies covering a UK–Switzerland multi-site environment, a secure data-center redesign, and a global HQ-to-branch architecture spanning San Francisco, Dubai, and Vancouver.
 
-**Repository coming soon**
+**Key technologies:** VLAN segmentation, IPv4 subnetting, Layer 3 switching, static routing, OSPF, DHCP, ACLs, Cisco ASA, NAT/PAT, SSH, DMZ architecture, and site-to-site IPsec VPN connectivity.
+
+**Key evidence:** Original Packet Tracer topologies, router configurations, routing output, SSH configuration, ASA ACL examples, and IPsec VPN configuration, with technical review of the original designs and identified improvement opportunities.
+
+`Cisco` `Packet Tracer` `VLAN` `Subnetting` `OSPF` `ACL` `Cisco ASA` `IPsec VPN` `Network Security`
+
+[View Project →](https://github.com/raviprajapati-it/secure-enterprise-network-design)
 
 ### 🔐 Active Directory Penetration Testing
 Hands-on exploration of penetration-testing techniques targeting Active Directory environments.
