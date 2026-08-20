@@ -99,13 +99,17 @@ Conducted an authorized penetration-testing assessment against an intentionally 
 
 [View Project →](https://github.com/raviprajapati-it/active-directory-penetration-testing)
 
-### 🌍 Secure Coding & Application Security
-Assessment and remediation of common web application vulnerabilities using secure-coding principles and OWASP guidance.
+### 🌐 [Secure Coding & Application Security — Vulnerable vs Remediated Implementations](https://github.com/raviprajapati-it/secure-coding-application-security)
 
-`OWASP Top 10` `Web Security` `SQL Injection` `XSS` `Burp Suite`
+Developed five secure-coding case studies demonstrating vulnerable implementations, security analysis, remediation, and re-testing across common application-security weaknesses.
 
-**Repository coming soon**
+**Case studies:** Buffer overflow in C, SQL injection in Java, reflected XSS in PHP, hardcoded credentials in Python, and insecure Java deserialization.
 
+**Key security controls:** Bounded memory operations, parameterized queries, context-aware output encoding, externalized secret configuration, restricted object deserialization, and remediation validation.
+
+`Secure Coding` `Application Security` `OWASP Top 10` `SQL Injection` `XSS` `Buffer Overflow` `Java` `Python` `PHP` `Secret Management`
+
+[View Project →](https://github.com/raviprajapati-it/secure-coding-application-security)
 ---
 
 ## 🎓 Education & Professional Development
